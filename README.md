@@ -17,7 +17,7 @@ Eu sou estudante de Ciência da Computação na UNOPAR EAD e recentemente comece
 ## Contatos 
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:sbcarlos321@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-vinicius-agripino-da-silva-67b5b6263/) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CarlosVinicius15)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-vinicius-agripino-da-silva-67b5b6263/)
 
 Estou sempre procurando novas oportunidades para aprender e crescer, então sinta-se à vontade para entrar em contato comigo se tiver alguma pergunta ou apenas quiser conversar sobre programação.
 
