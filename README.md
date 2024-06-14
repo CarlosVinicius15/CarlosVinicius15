@@ -2,7 +2,7 @@ Olá! seja bem-vindo(a)😊
 
 Eu sou estudante de Ciência da Computação na UNOPAR EAD e recentemente comecei a estudar na plataforma Dio. Atualmente, estou matriculado no Bootcamp de Python Backend e estou animado para aprender mais sobre desenvolvimento backend.
 
-💻 Sobre mim
+💻 Sobre mim  
 🎓 Estudo na Unopar Ead  
 🌱 Estou aprendendo Python para desenvolvimento backend na plataforma Dio.  
 🌐 Estou interessado em desenvolvimento web, análise de dados.  
